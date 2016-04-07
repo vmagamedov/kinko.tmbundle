@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>iynqvzve@zntnzrqbi.pbz</string>
+	<key>contactName</key>
+	<string>Vladimir Magamedov</string>
+	<key>description</key>
+	<string>Kinko markup DSL</string>
+	<key>name</key>
+	<string>Kinko</string>
+	<key>uuid</key>
+	<string>E34B203C-5904-4D85-B9FB-3E64B7309882</string>
+</dict>
+</plist>
